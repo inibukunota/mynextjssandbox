@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main>
       <h1>Hello World</h1>
-      <p>This is my first Next.js page</p>
+      <p>This is my first Next.js homepage.</p>
     </main>
   );
 }
